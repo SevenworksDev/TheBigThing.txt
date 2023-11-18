@@ -1,4 +1,4 @@
-# TheBigThing.txt (200K accountIDs in txt folder)
+# TheBigThing.txt (1.2M accountIDs for free)
 ## Setup
 Install requests through pip then create a file named ids.txt with Level IDs serperated by newlines.
 ## ids.txt example? what is it?
